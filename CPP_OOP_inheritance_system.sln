@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_OOP_inheritance_system", "CPP_OOP_inheritance_system\CPP_OOP_inheritance_system.vcxproj", "{83900B8F-B513-4178-882D-FD850963CBB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Debug|x64.ActiveCfg = Debug|x64
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Debug|x64.Build.0 = Debug|x64
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Debug|x86.ActiveCfg = Debug|Win32
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Debug|x86.Build.0 = Debug|Win32
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Release|x64.ActiveCfg = Release|x64
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Release|x64.Build.0 = Release|x64
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Release|x86.ActiveCfg = Release|Win32
+		{83900B8F-B513-4178-882D-FD850963CBB4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BA7567-5C33-4790-ACE1-32E42385AEB1}
+	EndGlobalSection
+EndGlobal
